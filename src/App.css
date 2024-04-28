@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.swiper{
+  z-index:0;
+}
+.mySwiper{
+  height: 20rem;
+  margin: 1rem 0 2rem 0;
+}
+
+

@@ -1,0 +1,29 @@
+.search-bar{
+position: relative;
+width: 100%;
+background-color: beige;
+
+}
+.menu-icon{
+    position: relative;
+    color: black;
+}
+.search-list{
+    position: absolute;
+    margin-top:11rem;
+    left: 0rem;
+    display: block;
+    background-color: rgba(64, 63, 63, 0.986);
+    width: 100%;
+    border-radius: 0.5rem;
+    text-align: center;
+    padding-right: 2rem;
+}
+
+.search-list>*{
+padding-top: 1rem;
+}
+.view-search-list>ul>li:hover{
+    color: rgba(161, 169, 17, 0.779);
+    font-weight: bolder;
+    }
