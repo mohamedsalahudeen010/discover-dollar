@@ -488,24 +488,235 @@ export const appliances = [
     name: "Tv",
     child: [
       {
-        name: "Galaxy S23",
-        child: [],
+        name: "Samsung",
+        child: [
+          {
+            name: "QLED",
+            child: [],
+          },
+          {
+            name: "OLED",
+            child: [],
+          },
+          {
+            name: "LED",
+            child: [],
+          },
+          {
+            name: "LCD",
+            child: [],
+          },
+          {
+            name: "32 inches",
+            child: [],
+          },
+          {
+            name: "42 inches",
+            child: [],
+          },
+          {
+            name: "55 inches",
+            child: [],
+          },
+        ],
       },
       {
-        name: "Galaxy A20",
-        child: [],
+        name: "LG",
+        child: [
+          {
+            name: "QLED",
+            child: [],
+          },
+          {
+            name: "OLED",
+            child: [],
+          },
+          {
+            name: "LED",
+            child: [],
+          },
+          {
+            name: "LCD",
+            child: [],
+          },
+          {
+            name: "32 inches",
+            child: [],
+          },
+          {
+            name: "42 inches",
+            child: [],
+          },
+          {
+            name: "55 inches",
+            child: [],
+          },
+        ],
       },
       {
-        name: "Galaxy A03",
-        child: [],
+        name: "Panasonic",
+        child: [
+          {
+            name: "QLED",
+            child: [],
+          },
+          {
+            name: "OLED",
+            child: [],
+          },
+          {
+            name: "LED",
+            child: [],
+          },
+          {
+            name: "LCD",
+            child: [],
+          },
+          {
+            name: "32 inches",
+            child: [],
+          },
+          {
+            name: "42 inches",
+            child: [],
+          },
+          {
+            name: "55 inches",
+            child: [],
+          },
+        ],
       },
       {
-        name: "Galaxy M30",
-        child: [],
+        name: "Sony Bravia",
+        child: [
+          {
+            name: "QLED",
+            child: [],
+          },
+          {
+            name: "OLED",
+            child: [],
+          },
+          {
+            name: "LED",
+            child: [],
+          },
+          {
+            name: "LCD",
+            child: [],
+          },
+          {
+            name: "32 inches",
+            child: [],
+          },
+          {
+            name: "42 inches",
+            child: [],
+          },
+          {
+            name: "55 inches",
+            child: [],
+          },
+        ],
       },
       {
-        name: "Galaxy S24+",
-        child: [],
+        name: "Xiaomi",
+        child: [
+          {
+            name: "QLED",
+            child: [],
+          },
+          {
+            name: "OLED",
+            child: [],
+          },
+          {
+            name: "LED",
+            child: [],
+          },
+          {
+            name: "LCD",
+            child: [],
+          },
+          {
+            name: "32 inches",
+            child: [],
+          },
+          {
+            name: "42 inches",
+            child: [],
+          },
+          {
+            name: "55 inches",
+            child: [],
+          },
+        ],
+      },
+      {
+        name: "Toshiba",
+        child: [
+          {
+            name: "QLED",
+            child: [],
+          },
+          {
+            name: "OLED",
+            child: [],
+          },
+          {
+            name: "LED",
+            child: [],
+          },
+          {
+            name: "LCD",
+            child: [],
+          },
+          {
+            name: "32 inches",
+            child: [],
+          },
+          {
+            name: "42 inches",
+            child: [],
+          },
+          {
+            name: "55 inches",
+            child: [],
+          },
+        ],
+      },
+      {
+        name: "Oneplus",
+        child: [
+          {
+            name: "QLED",
+            child: [],
+          },
+          {
+            name: "OLED",
+            child: [],
+          },
+          {
+            name: "LED",
+            child: [],
+          },
+          {
+            name: "LCD",
+            child: [],
+          },
+          {
+            name: "32 inches",
+            child: [],
+          },
+          {
+            name: "42 inches",
+            child: [],
+          },
+          {
+            name: "55 inches",
+            child: [],
+          },
+        ],
       },
     ],
   },
@@ -513,98 +724,157 @@ export const appliances = [
     name: "Washing Machine",
     child: [
       {
-        name: "IPhone 12",
-        child: [],
+        name: "LG",
+        child: [
+          {
+            name: "Front Load",
+            child: [],
+          },
+          {
+            name: "Top Load",
+            child: [],
+          },
+        ],
       },
       {
-        name: "IPhone 13 pro",
-        child: [],
+        name: "Samsung",
+        child: [
+          {
+            name: "Front Load",
+            child: [],
+          },
+          {
+            name: "Top Load",
+            child: [],
+          },
+        ],
       },
       {
-        name: "IPhone 14",
-        child: [],
+        name: "Panasonic",
+        child: [
+          {
+            name: "Front Load",
+            child: [],
+          },
+          {
+            name: "Top Load",
+            child: [],
+          },
+        ],
       },
       {
-        name: "IPhone 14 pro",
-        child: [],
+        name: "IFB",
+        child: [
+          {
+            name: "Front Load",
+            child: [],
+          },
+          {
+            name: "Top Load",
+            child: [],
+          },
+        ],
       },
       {
-        name: "IPhone 15",
-        child: [],
+        name: "Wirlpool",
+        child: [
+          {
+            name: "Front Load",
+            child: [],
+          },
+          {
+            name: "Top Load",
+            child: [],
+          },
+        ],
       },
+      {
+        name: "Bosch",
+        child: [
+          {
+            name: "Front Load",
+            child: [],
+          },
+          {
+            name: "Top Load",
+            child: [],
+          },
+        ],
+      },
+      {
+        name: "Haier",
+        child: [
+          {
+            name: "Front Load",
+            child: [],
+          },
+          {
+            name: "Top Load",
+            child: [],
+          },
+        ],
+      },
+     
     ],
   },
   {
     name: "Laptop And Desktop",
     child: [
       {
-        name: "Vivo 12",
+        name: "Lenovo",
         child: [],
       },
       {
-        name: "Vivo 13 pro",
+        name: "HP",
         child: [],
       },
       {
-        name: "Vivo A60",
+        name: "Asus",
         child: [],
       },
       {
-        name: "Vivo 14 pro",
+        name: "Apple",
         child: [],
       },
       {
-        name: "Vivo Neo",
+        name: "Dell",
+        child: [],
+      },
+      {
+        name: "Hisense",
+        child: [],
+      },
+      {
+        name: "Huawei",
         child: [],
       },
     ],
   },
   {
     name: "Furniture",
-    child: [
-      {
-        name: "Oppo 12",
-        child: [],
-      },
-      {
-        name: "Oppo 13 pro",
-        child: [],
-      },
-      {
-        name: "Oppo 14",
-        child: [],
-      },
-      {
-        name: "Oppo 14 pro",
-        child: [],
-      },
-      {
-        name: "Oppo 15",
-        child: [],
-      },
-    ],
+    child: [],
   },
   {
     name: "Stabilizers",
     child: [
       {
-        name: "Redmi Note 12",
+        name: "V Gaurd",
         child: [],
       },
       {
-        name: "Redmi Note 13 ",
+        name: "Microtek",
         child: [],
       },
       {
-        name: "Redmi A60",
+        name: "Servomax",
         child: [],
       },
       {
-        name: "Redmi Note 14 pro",
+        name: "Everest",
         child: [],
       },
       {
-        name: "Redmi Neo",
+        name: "Vertex",
         child: [],
       },
     ],
@@ -613,23 +883,27 @@ export const appliances = [
     name: "Fan",
     child: [
       {
-        name: "Redmi Note 12",
+        name: "Crompton",
         child: [],
       },
       {
-        name: "Redmi Note 13 ",
+        name: "Havells",
         child: [],
       },
       {
-        name: "Redmi A60",
+        name: "V-gaurd",
         child: [],
       },
       {
-        name: "Redmi Note 14 pro",
+        name: "Atomberg",
         child: [],
       },
       {
-        name: "Redmi Neo",
+        name: "Khaitan",
+        child: [],
+      },
+      {
+        name: "Orion",
         child: [],
       },
     ],
@@ -638,23 +912,35 @@ export const appliances = [
     name: "Air Conditioner",
     child: [
       {
-        name: "Redmi Note 12",
+        name: "O-General",
         child: [],
       },
       {
-        name: "Redmi Note 13 ",
+        name: "LG",
         child: [],
       },
       {
-        name: "Redmi A60",
+        name: "Panasonic",
         child: [],
       },
       {
-        name: "Redmi Note 14 pro",
+        name: "Daikin",
         child: [],
       },
       {
-        name: "Redmi Neo",
+        name: "Blue star",
+        child: [],
+      },
+      {
+        name: "Carrier",
+        child: [],
+      },
+      {
+        name: "Hitachi",
+        child: [],
+      },
+      {
+        name: "Samsung",
         child: [],
       },
     ],
@@ -686,670 +972,260 @@ export const appliances = [
   },
 ];
 
-export const data = [
+export const home = [
+  
   {
-    name: "Application",
+    name: "Home Furnishings",
     child: [
       {
-        name: "Adobe",
-        child: [
-          {
-            name: "CrashReports",
-            child: [],
-          },
-          {
-            name: "Adobe Reader",
-            child: [],
-          },
-          {
-            name: "Update",
-            child: [],
-          },
-          {
-            name: "Temp",
-            child: [],
-          },
-        ],
-      },
-      {
-        name: "Microsoft",
-        child: [
-          {
-            name: "Edge",
-            child: [
-              {
-                name: "Application",
-                child: [],
-              },
-              {
-                name: "MSEdgeRecovery",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "EdgeCore",
-            child: [
-              {
-                name: "108.0.1462.45",
-                child: [],
-              },
-              {
-                name: "105.0.1454.97",
-                child: [],
-              },
-              {
-                name: "102.0.1752.25",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "EdgeUpdate",
-            child: [
-              {
-                name: "1.3.185.21",
-                child: [],
-              },
-              {
-                name: "Download",
-                child: [],
-              },
-              {
-                name: "Install",
-                child: [],
-              },
-              {
-                name: "Offline",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "EdgeWebView",
-            child: [
-              {
-                name: "Application",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "Temp",
-            child: [
-              {
-                name: "EYUV4B45",
-                child: [],
-              },
-            ],
-          },
-        ],
-      },
-      {
-        name: "Chrome",
+        name: "Bed Linens",
         child: [],
       },
       {
-        name: "Realtek",
-        child: [
-          {
-            name: "PCIE Lan",
-            child: [
-              {
-                name: "RTWLANE_Driver",
-                child: [],
-              },
-              {
-                name: "RTKModule",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "Realtek Bluetooth",
-            child: [],
-          },
-        ],
-      },
-      {
-        name: "HP",
-        child: [
-          {
-            name: "Hp Support",
-            child: [
-              {
-                name: "Modules",
-                child: [],
-              },
-              {
-                name: "Resources",
-                child: [],
-              },
-              {
-                name: "Warranty",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "HPX Support",
-            child: [
-              {
-                name: "Resources",
-                child: [],
-              },
-              {
-                name: "Warranty",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "Shared",
-            child: [
-              {
-                name: "Wzlink",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "Temp",
-            child: [],
-          },
-        ],
-      },
-    ],
-  },
-  {
-    name: "Program Files",
-    child: [
-      {
-        name: "Autodesk",
-        child: [
-          {
-            name: "Application Plugins",
-            child: [
-              {
-                name: "Direct3D9",
-                child: [],
-              },
-              {
-                name: "Direct3D10",
-                child: [],
-              },
-              {
-                name: "Direct3D11",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "AutoCAD 2018",
-            child: [
-              {
-                name: "Drv",
-                child: [],
-              },
-              {
-                name: "en",
-                child: [],
-              },
-              {
-                name: "en-US",
-                child: [],
-              },
-              {
-                name: "Environments",
-                child: [],
-              },
-              {
-                name: "Express",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "Autodesk ReCap",
-            child: [
-              {
-                name: "Fonts",
-                child: [],
-              },
-              {
-                name: "GeoMapHTML",
-                child: [],
-              },
-              {
-                name: "Help",
-                child: [],
-              },
-            ],
-          },
-          {
-            name: "Autodesk Sync",
-            child: [
-              {
-                name: "Inventor Server",
-                child: [],
-              },
-              {
-                name: "Migrator",
-                child: [],
-              },
-              {
-                name: "MsiKeyFile",
-                child: [],
-              },
-              {
-                name: "platforms",
-                child: [],
-              },
-              {
-                name: "Schemes",
-                child: [],
-              },
-            ],
-          },
-        ],
-      },
-      {
-        name: "Common Files",
-        child: [
-          {
-            name: "Shared",
-            child: [],
-          },
-          {
-            name: "Designer",
-            child: [],
-          },
-          {
-            name: "Environments",
-            child: [],
-          },
-          {
-            name: "Epson",
-            child: [],
-          },
-          {
-            name: "System",
-            child: [],
-          },
-          {
-            name: "Dowloader",
-            child: [],
-          },
-          {
-            name: "macrovision",
-            child: [],
-          },
-        ],
-      },
-      {
-        name: "Docker",
-        child: [
-          {
-            name: "cli-plugins",
-            child: [],
-          },
-          {
-            name: "Docker",
-            child: [],
-          },
-        ],
-      },
-      {
-        name: "Git",
-        child: [
-          {
-            name: "bin",
-            child: [],
-          },
-          {
-            name: "cmd",
-            child: [],
-          },
-          {
-            name: "dev",
-            child: [],
-          },
-          {
-            name: "etc",
-            child: [],
-          },
-          {
-            name: "mingw64",
-            child: [],
-          },
-          {
-            name: "tmp",
-            child: [],
-          },
-          {
-            name: "usr",
-            child: [],
-          },
-        ],
-      },
-      {
-        name: "McAfee",
-        child: [
-          {
-            name: "WebAdvisor",
-            child: [],
-          },
-          {
-            name: "WPS",
-            child: [],
-          },
-        ],
-      },
-      {
-        name: "HP",
-        child: [
-          {
-            name: "Consent",
-            child: [],
-          },
-          {
-            name: "Documentation",
-            child: [],
-          },
-          {
-            name: "Privacy",
-            child: [],
-          },
-          {
-            name: "shared",
-            child: [],
-          },
-        ],
-      },
-      {
-        name: "Internet Explorer",
-        child: [
-          {
-            name: "en-GB",
-            child: [],
-          },
-          {
-            name: "en-US",
-            child: [],
-          },
-          {
-            name: "Images",
-            child: [],
-          },
-          {
-            name: "SIGNUP",
-            child: [],
-          },
-        ],
-      },
-    ],
-  },
-  {
-    name: "System",
-    child: [
-      {
-        name: "App Locker",
+        name: "Bedsheets",
         child: [],
       },
       {
-        name: "Best Practices",
+        name: "Blankets",
         child: [],
       },
       {
-        name: "Cat Root",
+        name: "Curtains",
         child: [],
       },
       {
-        name: "Speech",
-        child: [],
-      },
-      {
-        name: "Sysprep",
-        child: [],
-      },
-      {
-        name: "Tasks",
-        child: [],
-      },
-      {
-        name: "SMI",
+        name: "Floor Coverings",
         child: [],
       },
     ],
   },
   {
-    name: "Users",
+    name: "Living Room",
     child: [
       {
-        name: "Sala",
-        child: [
-          {
-            name: "FIles",
-            child: [],
-          },
-          {
-            name: "Secret",
-            child: [],
-          },
-          {
-            name: "Class",
-            child: [],
-          },
-        ],
+        name: "Tv Units",
+        child: [],
       },
       {
-        name: "Contacts",
-        child: [
-          {
-            name: "DataSet",
-            child: [],
-          },
-          {
-            name: "en-GB",
-            child: [],
-          },
-          {
-            name: "Privacy",
-            child: [],
-          },
-          {
-            name: "Data",
-            child: [],
-          },
-        ],
+        name: "Dining Sets",
+        child: [],
       },
       {
-        name: "Downloads",
-        child: [
-          {
-            name: "Resume",
-            child: [],
-          },
-          {
-            name: "Personal",
-            child: [],
-          },
-        ],
+        name: "Sofa Beds",
+        child: [],
       },
       {
-        name: "Favorites",
-        child: [
-          {
-            name: "en-GB",
-            child: [],
-          },
-          {
-            name: "Photos",
-            child: [],
-          },
-          {
-            name: "Videos",
-            child: [],
-          },
-          {
-            name: "Movies",
-            child: [],
-          },
-        ],
+        name: "Book Shelves",
+        child: [],
       },
       {
-        name: "Links",
-        child: [
-          {
-            name: "Subbed",
-            child: [],
-          },
-          {
-            name: "Hollywood",
-            child: [],
-          },
-          {
-            name: "Tamil",
-            child: [],
-          },
-        ],
+        name: "Shoe Racks",
+        child: [],
       },
       {
-        name: "Music",
-        child: [
-          {
-            name: "Tamil",
-            child: [],
-          },
-          {
-            name: "Malayalam",
-            child: [],
-          },
-          {
-            name: "Hindi",
-            child: [],
-          },
-          {
-            name: "English",
-            child: [],
-          },
-          {
-            name: "Ar Rahman",
-            child: [],
-          },
-        ],
+        name: "Recliners",
+        child: [],
+      },
+    ]
+  },
+  {
+    name: "Kitchen and Dining",
+    child: [
+      {
+        name: "All",
+        child: [],
       },
       {
-        name: "PostMan",
-        child: [
-          {
-            name: "en-GB",
-            child: [],
-          },
-          {
-            name: "en-GB",
-            child: [],
-          },
-          {
-            name: "en-GB",
-            child: [],
-          },
-        ],
+        name: "Cookware",
+        child: [],
       },
       {
-        name: "One Drive",
+        name: "Kinives and Choppers",
+        child: [],
+      },
+      {
+        name: "Gas Stove and Accessories",
+        child: [],
+      },
+      {
+        name: "Kitchen Tools",
+        child: [],
+      },
+      {
+        name: "Containers",
+        child: [],
+      },
+      {
+        name: "TableWare",
+        child: [],
+      },
+      {
+        name: "Barware",
+        child: [],
+      },{
+        name: "Backware",
         child: [],
       },
     ],
   },
   {
-    name: "Project",
+    name: "Bedroom Furniture",
     child: [
       {
-        name: "Helper",
-        child: [
-          {
-            name: "Envy",
-            child: [],
-          },
-          {
-            name: "Data",
-            child: [],
-          },
-          {
-            name: "Module",
-            child: [],
-          },
-        ],
+        name: "Matresses",
+        child: [],
       },
       {
-        name: "Source",
-        child: [
-          {
-            name: "sourceData",
-            child: [],
-          },
-          {
-            name: "Related",
-            child: [],
-          },
-          {
-            name: "Module",
-            child: [],
-          },
-        ],
+        name: "Beds ",
+        child: [],
       },
       {
-        name: "react-native",
-        child: [
-          {
-            name: "Entry",
-            child: [],
-          },
-          {
-            name: "DataModule",
-            child: [],
-          },
-          {
-            name: "Fibre",
-            child: [],
-          },
-        ],
+        name: "Wadrobes",
+        child: [],
       },
       {
-        name: "Webcode",
-        child: [
-          {
-            name: "Project 1",
-            child: [],
-          },
-          {
-            name: "Project 2",
-            child: [],
-          },
-          {
-            name: "Project 3",
-            child: [],
-          },
-        ],
+        name: "Side Tables",
+        child: [],
       },
       {
-        name: "Capstone",
-        child: [
-          {
-            name: "Capstone 1",
-            child: [],
-          },
-          {
-            name: "Capstone 2",
-            child: [],
-          },
-          {
-            name: "Capstone 3",
-            child: [],
-          },
-        ],
+        name: "Office Tables",
+        child: [],
+      },
+      {
+        name: "Office Chairs",
+        child: [],
+      },
+      {
+        name: "Book Shelves",
+        child: [],
+      },
+      {
+        name: "Wardrobes",
+        child: [],
+      },
+    ],
+  },
+  {
+    name: "Home Decor",
+    child: [
+      {
+        name: "All",
+        child: [],
+      },
+      {
+        name: "Lightings",
+        child: [],
+      },
+      {
+        name: "Stickers",
+        child: [],
+      },
+      {
+        name: "Wallpapers",
+        child: [],
+      },
+      {
+        name: "Clocks",
+        child: [],
+      },
+      {
+        name: "Wall Decor",
+        child: [],
+      },
+      {
+        name: "Showpieces",
+        child: [],
+      },
+      {
+        name: "Decoratives",
+        child: [],
+      },
+      {
+        name: "Flowers and vases",
+        child: [],
+      },
+      {
+        name: "Home Fragrances",
+        child: [],
+      },
+      {
+        name: "Paintings and Posters",
+        child: [],
+      },
+    ],
+  },
+  {
+    name: "Tools and Utility",
+    child: [
+      {
+        name: "All",
+        child: [],
+      },
+      {
+        name: "Hand Tool",
+        child: [],
+      },
+      {
+        name: "Power Tools",
+        child: [],
+      },
+      {
+        name: "Measuring Tools",
+        child: [],
+      },
+      {
+        name: "Home Storage",
+        child: [],
+      }, {
+        name: "Umbrellas",
+        child: [],
+      },
+      {
+        name: "Cloth Dryer",
+        child: [],
+      }
+    ],
+  },
+  {
+    name: "Lightings and Electricals",
+    child: [
+      {
+        name: "All",
+        child: [],
+      },
+      {
+        name: "Bubs",
+        child: [],
+      },
+      {
+        name: "Emergency Lights",
+        child: [],
+      },
+      {
+        name: "Torches",
+        child: [],
+      },
+      {
+        name: "Tube Lights",
+        child: [],
+      },
+      {
+        name: "Batteries",
+        child: [],
+      },
+      {
+        name: "Electric Socket",
+        child: [],
+      },
+      {
+        name: "Electric Switches",
+        child: [],
+      },
+      {
+        name: "Electric Wires",
+        child: [],
       },
     ],
   },
 ];
+
