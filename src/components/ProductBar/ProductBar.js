@@ -10,17 +10,13 @@ import "tippy.js/animations/scale.css";
 
 import productImage from "./Products.png";
 
-import { appliances, data, electronics, fashion, mobile } from "../../data";
+import { appliances, electronics, fashion, home, mobile } from "../../data";
 import NestedList1 from "../NestedList/NestedList1";
 
 function ProductBar() {
   const { filteredData,setFilteredData } = useContext(StoreContext);
 
-  const handleData=(search)=>{
-    
-    setFilteredData(data.filter((ele)=>ele.name===search))
-    console.log(filteredData)
-  }
+ 
 
   return (
     <div className="sideBar">
@@ -112,7 +108,7 @@ function ProductBar() {
         />
         <div className="product-toy">
           <Tippy
-            content={<NestedList1 items={data} prod="mobile"></NestedList1>}
+            content={<NestedList1 items={home} prod="mobile"></NestedList1>}
             interactive={true}
             theme="light"
             offset={[5, 18]}
@@ -131,7 +127,7 @@ function ProductBar() {
         />
         <div className="product-toy">
           <Tippy
-            content={<NestedList1 items={data} prod="mobile"></NestedList1>}
+            content={<NestedList1 items={home} prod="mobile"></NestedList1>}
             interactive={true}
             theme="light"
             offset={[5, 18]}
